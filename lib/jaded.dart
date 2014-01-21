@@ -1,7 +1,6 @@
 library jaded;
 
 import "dart:io";
-import "dart:json" as JSON;
 import "dart:math" as Math;
 import "dart:mirrors";
 import "dart:isolate";
